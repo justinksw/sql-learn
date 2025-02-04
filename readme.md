@@ -1,8 +1,14 @@
-# SQL JOIN
+# Difference between `IS` and `=`
+
+https://stackoverflow.com/questions/25641720/difference-between-and-is-in-sql-server
+
+
+# `JOIN`
 
 https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
 
-# CROSS JOIN
+
+# `CROSS JOIN`
 
 Cartesian product; making every possible pair of rows from two tables.
 
