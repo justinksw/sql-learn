@@ -1,3 +1,11 @@
+- [Difference between `IS` and `=`](#difference-between-is-and-)
+- [`JOIN`](#join)
+- [`CROSS JOIN`](#cross-join)
+- [Difference between **CTE** and **SubQuery**](#difference-between-cte-and-subquery)
+- [Difference between `WHERE` and `HAVING`](#difference-between-where-and-having)
+
+<br>
+
 # Difference between `IS` and `=`
 
 https://stackoverflow.com/questions/25641720/difference-between-and-is-in-sql-server
